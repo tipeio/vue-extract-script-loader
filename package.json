@@ -1,0 +1,19 @@
+{
+  "name": "vue-extract-script-loader",
+  "version": "1.0.0",
+  "description": "Extract the <script> to a js file from a .vue file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tipeio/vue-extract-script-loader.git"
+  },
+  "author": "PatrickJS <patrick@tipe.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tipeio/vue-extract-script-loader/issues"
+  },
+  "homepage": "https://github.com/tipeio/vue-extract-script-loader#readme"
+}
